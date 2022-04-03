@@ -4,7 +4,6 @@ for tc in range(int(input())):
 
     arr = [int(x) for x in input().split()]
 
-
     arr.sort()
 
     pos = 0
